@@ -28,7 +28,7 @@ module.exports = {
 
       lime: {
         400: '#a3e635',
-        300: '#bef264'
+        300: '#bef264',
       },
     },
     extend: {
