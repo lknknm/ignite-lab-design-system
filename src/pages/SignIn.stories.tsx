@@ -30,6 +30,8 @@ export const Default: StoryObj = {
         userEvent.type(canvas.getByPlaceholderText('Digite seu e-mail'), 'valid@email.com')
         userEvent.type(canvas.getByPlaceholderText('*******'), '12345678')
 
+        userEvent.click(canvas.getByText('Lembrar de mim por 30 dias'))
+
         userEvent.click(canvas.getByRole('button'))
 
         await waitFor(() => {
