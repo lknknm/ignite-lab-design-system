@@ -1,0 +1,2 @@
+import{B as t}from"./Button.aea18a88.js";import"./index.module.b7410702.js";import"./index.3d6af099.js";import"./iframe.955eb090.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.f689e208.js";const m={title:"Components/Button",component:t,args:{children:"Log In",size:"md"},argTypes:{size:{options:["sm","md","lg"],control:{type:"inline-radio"}}}},p={},a=["Default"];export{p as Default,a as __namedExportsOrder,m as default};
+//# sourceMappingURL=Button.stories.6710396e.js.map
